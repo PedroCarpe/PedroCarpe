@@ -2,6 +2,7 @@
 
 🌱 Atualmente estudando: Python | Java | Spring | Docker | JavaScript | HTML/CSS | SQL | Power BI | Excel 
 <img src="https://skillicons.dev/icons?i=py,js,html,css" />
+<br>
        I’m currently learning: Python | Java | Spring | Docker | JavaScript | HTML/CSS | SQL | Power BI | Excel
        
 <!--
