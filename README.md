@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 Atualmente estudando: Python | Java | Spring | Docker | JavaScript | HTML/CSS | SQL | Power BI | Excel 
-<img src="https://skillicons.dev/icons?i=py,js,html,css" />
+<img src="https://skillicons.dev/icons?i=py,js,mysql,html,css,arduino,bash,blender" />
 <br>
        I’m currently learning: Python | Java | Spring | Docker | JavaScript | HTML/CSS | SQL | Power BI | Excel
        
